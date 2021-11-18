@@ -1,4 +1,4 @@
-name: base
+name: py3_study
 channels:
   - defaults
 dependencies:
@@ -65,4 +65,3 @@ dependencies:
     - threadpoolctl==3.0.0
     - tornado==6.1
     - typing-extensions==3.10.0.2
-prefix: /home/ml32020/yarmolkevich/miniconda3

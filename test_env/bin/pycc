@@ -1,0 +1,3 @@
+#!/home/ypl/module_3/ds_python/test_env/bin/python
+from numba.pycc import main
+main()
